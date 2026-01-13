@@ -56,6 +56,8 @@ Estou desafiando o meu aprendizado na faculdade traduzindo os exercícios de C p
   <img src="https://img.shields.io/badge/SQL-ffd1dc?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
+[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=giolessa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 
 ---
