@@ -58,12 +58,6 @@ Estou desafiando o meu aprendizado na faculdade traduzindo os exercícios de C p
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giolessa&theme=rose&background=fff0f5&fire=ff69b4&ring=ff69b4&sideNums=4b4b4b&stroke=ffb6c1&currStreakLabel=ff69b4" />
-</div>
-
-> **Nota:** Minhas estatísticas de código estão carregando... Assim que eu subir meus primeiros projetos de Engenharia de Dados, elas aparecerão aqui! ✨
-
 ---
 
 ### Vamos interagir e fofocar?
