@@ -48,13 +48,8 @@ Estou desafiando o meu aprendizado na faculdade traduzindo os exercícios de C p
 
 > Isso me ajuda a visualizar como a **Engenharia de Dados** simplifica processos que na base (em C) são mais complexos.
 
-### Minha Jornada de Aprendizado
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giolessa&show_icons=true&theme=rose&bg_color=fff0f5&title_color=ff69b4&text_color=4b4b4b&icon_color=ff69b4&border_color=ffb6c1" height="170px" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giolessa&layout=compact&theme=rose&bg_color=fff0f5&title_color=ff69b4&text_color=4b4b4b&border_color=ffb6c1" height="170px" />
-</div>
-
+### top linguagens
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=UTILIZADOR&layout=compact&theme=dracula)
 <br>
 
 <div align="center">
