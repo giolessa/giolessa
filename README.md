@@ -3,7 +3,7 @@
 <div align="center">
   <img src="est.gif" width="100%">
 
- <p><i>"18 anos | Estudante de ADS 🎓 | Construindo pontes com dados e código."</i> ✨</p
+ <p><i>"18 anos | Estudante de ADS 🎓 | Divando com códigos "</i> ✨</p
   
   <img src="https://komarev.com/ghpvc/?username=giolessa&label=Visitas%20ao%20Perfil&color=ffb6c1&style=flat" alt="Visitas" />
 </div>
