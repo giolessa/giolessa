@@ -1,7 +1,7 @@
 # 🎀 Olá, eu sou a Gio!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZzRreXBibW96Ynh6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxx6B3YFJC8/giphy.gif" width="600" alt="Banner fofo">
+  <img src="est.gif" width="100%">
 
  <p><i>"18 anos | Estudante de ADS 🎓 | Construindo pontes com dados e código."</i> ✨</p
   
@@ -10,13 +10,13 @@
 
 ---
 
-### ☁️ Sobre Mim 🌸
-* 🔭 **No momento:** 18 anos, cursando ADS e focada na base acadêmica.
-* 🌱 **Explorando Dados:** Iniciei minha jornada na Engenharia de Dados, focando intensamente em dominar Python e SQL para manipular e organizar grandes volumes de informação.
-* 📚 **Foco Total:** Além disso, também estudo inglês e redação focando em artigo científico<3
+### Sobre Mim 🌸
+* **No momento:** 18 anos, cursando ADS e focada na base acadêmica.
+* **Explorando Dados:** Iniciei minha jornada na Engenharia de Dados, focando intensamente em dominar Python e SQL para manipular e organizar grandes volumes de informação.
+* **Foco Total:** Além disso, também estudo inglês e redação focando em artigo científico<3
 ---
 
-### 🛠️ O Meu Arsenal de Estudos (Data Engineering)
+### O que eu estudo para área de engenharia de dados? 
 
 #### 🎀 Linguagens que estou a explorar:
 <div align="center">
@@ -40,21 +40,20 @@
 
 ---
 
-### 📊 Minhas Estatísticas Mágicas
+### Minha Jornada de Aprendizado
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=giolessa&show_icons=true&theme=rose&hide_border=true" alt="Estatísticas Gerais" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giolessa&layout=compact&langs_count=7&theme=rose&hide_border=true" alt="Linguagens mais usadas" />
-      </td>
-    </tr>
-  </table>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giolessa&theme=rose&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=giolessa&show_icons=true&theme=rose&bg_color=fff0f5&title_color=ff69b4&text_color=4b4b4b&icon_color=ff69b4&border_color=ffb6c1" height="170px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giolessa&layout=compact&theme=rose&bg_color=fff0f5&title_color=ff69b4&text_color=4b4b4b&border_color=ffb6c1" height="170px" />
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giolessa&theme=rose&background=fff0f5&fire=ff69b4&ring=ff69b4&sideNums=4b4b4b&stroke=ffb6c1&currStreakLabel=ff69b4" />
+</div>
+
+> **Nota:** Minhas estatísticas de código estão carregando... Assim que eu subir meus primeiros projetos de Engenharia de Dados, elas aparecerão aqui! ✨
 
 ---
 
