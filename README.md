@@ -11,9 +11,9 @@
 ---
 
 ### Sobre Mim 🌸
-* **No momento:** 18 anos, cursando ADS e focada na base acadêmica.
-* **Explorando Dados:** Iniciei minha jornada na Engenharia de Dados, focando intensamente em dominar Python e SQL para manipular e organizar grandes volumes de informação.
-* **Foco Total:** Além disso, também estudo inglês e redação focando em artigo científico<3
+* **Eu:** 18 anos, cursando ADS e focada na base acadêmica.
+* **Área desejada:** Iniciei minha jornada na Engenharia de Dados, focando intensamente em dominar Python e SQL para manipular e organizar grandes volumes de informação.
+* **Extras:** Além disso, também estudo inglês e redação focando em artigo científico<3
 ---
 
 ### O que eu estudo para área de engenharia de dados? 
