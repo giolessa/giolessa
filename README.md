@@ -57,7 +57,7 @@ Estou desafiando o meu aprendizado na faculdade traduzindo os exercícios de C p
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giolessa&layout=compact&theme=rose_pine&bg_color=fff5f7&title_color=e57399&icon_color=e57399&text_color=5d5d5d" alt="Minhas Linguagens" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=giolessa&layout=compact&theme=rose_pine&bg_color=ffffff&title_color=ffb6c1&text_color=fb7da8&icon_color=ffb6c1&border_color=ffb6c1&bar_color=ffb6c1&cache_seconds=0" alt="Top Langs" />
 </p>
 
 <br>
