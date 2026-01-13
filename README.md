@@ -3,7 +3,7 @@
 <div align="center">
   <img src="est.gif" width="100%">
 
- <p><i>"18 anos | Estudante de ADS 🎓 | Divando com dados "</i> ✨</p
+ <p><i>"18 anos | Estudante de ADS 🎓 | Divando com dados "</i> ✨</p>
   
   <img src="https://komarev.com/ghpvc/?username=giolessa&label=Visitas%20ao%20Perfil&color=ffb6c1&style=flat" alt="Visitas" />
 </div>
@@ -48,8 +48,14 @@ Estou desafiando o meu aprendizado na faculdade traduzindo os exercícios de C p
 
 > Isso me ajuda a visualizar como a **Engenharia de Dados** simplifica processos que na base (em C) são mais complexos.
 
-### top linguagens
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=UTILIZADOR&layout=compact&theme=dracula)
+### 🌸 Top Linguagens
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-ffc0cb?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-ffd1dc?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</div>
+
 <br>
 
 <div align="center">
