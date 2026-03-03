@@ -3,7 +3,7 @@
 <div align="center">
   <img src="est.gif" width="100%">
 
- <p><i>"18 anos | Estudante de ADS 🎓 | Divando com dados "</i> ✨</p>
+ <p><i>"19 anos | Estudante de ADS | Divando com dados "</i> ✨</p>
   
   <img src="https://komarev.com/ghpvc/?username=giolessa&label=Visitas%20ao%20Perfil&color=ffb6c1&style=flat" alt="Visitas" />
 </div>
@@ -11,7 +11,7 @@
 ---
 
 ### Sobre Mim 🌸
-* **Eu:** 18 anos, cursando ADS e focada na base acadêmica.
+* **Eu:** 19 anos, cursando ADS e focada na base acadêmica.
 * **Área desejada:** Iniciei minha jornada na Engenharia de Dados, focando intensamente em dominar Python e SQL para manipular e organizar grandes volumes de informação.
 * **Extras:** Além disso, também estudo inglês e redação focando em artigos<3
 ---
