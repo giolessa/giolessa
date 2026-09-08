@@ -30,10 +30,10 @@ This GitHub will be where I document my journey into Data Engineering — sharin
   <img src="https://img.shields.io/badge/Apache_Spark-2D1B36?style=for-the-badge&logo=apachespark&logoColor=C9A0DC" />
   <img src="https://img.shields.io/badge/Apache_Airflow-1A1A2E?style=for-the-badge&logo=apacheairflow&logoColor=B784A7" />
   <img src="https://img.shields.io/badge/AWS-3D2C4F?style=for-the-badge&logo=amazon-aws&logoColor=E8B4E3" />
-  <img src="https://img.shields.io/badge/Linux-24172B?style=for-the-badge&logo=linux&logoColor=A084B6" />
-  <img src="https://img.shields.io/badge/VS_Code-2D1B36?style=for-the-badge&logo=visualstudiocode&logoColor=C9A0DC" />
-  <img src="https://img.shields.io/badge/Excel-1A1A2E?style=for-the-badge&logo=microsoftexcel&logoColor=B784A7" />
-  <img src="https://img.shields.io/badge/Power_BI-3D2C4F?style=for-the-badge&logo=powerbi&logoColor=E8B4E3" />
+  <img src="https://img.shields.io/badge/Azure-24172B?style=for-the-badge&logo=microsoftazure&logoColor=A084B6" />
+  <img src="https://img.shields.io/badge/Linux-2D1B36?style=for-the-badge&logo=linux&logoColor=C9A0DC" />
+  <img src="https://img.shields.io/badge/Excel-3D2C4F?style=for-the-badge&logo=microsoftexcel&logoColor=E8B4E3" />
+  <img src="https://img.shields.io/badge/Power_BI-24172B?style=for-the-badge&logo=powerbi&logoColor=A084B6" />
 </div>
 
 ---
