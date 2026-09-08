@@ -1,70 +1,44 @@
-# 🎀 Olá, eu sou a Gio!
+### Hey There! 🖤
 
+I'm Gio, a Systems Analysis and Development (ADS) student in Rio de Janeiro, Brazil, focused on Data Engineering. I'm currently building my skills in ETL pipelines, SQL, and data pipelines, while working as an administrative apprentice where I get hands-on practice with spreadsheets, document management, and organizational tools.
+
+This GitHub will be where I document my journey into Data Engineering — sharing projects, experiments, and everything I'm learning along the way. Expect a mix of polished work and hands-on trial-and-error as I build my skills one commit at a time.
+
+- Currently exploring data engineering through hands-on projects and self-study
+- Learning: SQL, Python, ETL pipelines, and data pipeline tools
+- Looking to grow into a data engineering role
+- Fun fact: outside of code, I'm into games, anime, and music
+
+---
+
+### What I Study for Data Engineering
+
+#### Languages I'm Exploring:
 <div align="center">
-  <img src="est.gif" width="100%">
+  <img src="https://img.shields.io/badge/Python-2D1B36?style=for-the-badge&logo=python&logoColor=C9A0DC" />
+  <img src="https://img.shields.io/badge/Java-1A1A2E?style=for-the-badge&logo=openjdk&logoColor=B784A7" />
+  <img src="https://img.shields.io/badge/SQL-3D2C4F?style=for-the-badge&logo=postgresql&logoColor=E8B4E3" />
+  <img src="https://img.shields.io/badge/R-24172B?style=for-the-badge&logo=r&logoColor=A084B6" />
+</div>
 
- <p><i>"19 anos | Estudante de ADS | Divando com dados "</i> ✨</p>
-  
-  <img src="https://komarev.com/ghpvc/?username=giolessa&label=Visitas%20ao%20Perfil&color=ffb6c1&style=flat" alt="Visitas" />
+#### Tools and Technologies on My Radar:
+<div align="center">
+  <img src="https://img.shields.io/badge/Pandas-2D1B36?style=for-the-badge&logo=pandas&logoColor=C9A0DC" />
+  <img src="https://img.shields.io/badge/Jupyter-1A1A2E?style=for-the-badge&logo=jupyter&logoColor=B784A7" />
+  <img src="https://img.shields.io/badge/PostgreSQL-3D2C4F?style=for-the-badge&logo=postgresql&logoColor=E8B4E3" />
+  <img src="https://img.shields.io/badge/SQLite-24172B?style=for-the-badge&logo=sqlite&logoColor=A084B6" />
+  <img src="https://img.shields.io/badge/Apache_Spark-2D1B36?style=for-the-badge&logo=apachespark&logoColor=C9A0DC" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-1A1A2E?style=for-the-badge&logo=apacheairflow&logoColor=B784A7" />
+  <img src="https://img.shields.io/badge/AWS-3D2C4F?style=for-the-badge&logo=amazon-aws&logoColor=E8B4E3" />
+  <img src="https://img.shields.io/badge/Linux-24172B?style=for-the-badge&logo=linux&logoColor=A084B6" />
+  <img src="https://img.shields.io/badge/VS_Code-2D1B36?style=for-the-badge&logo=visualstudiocode&logoColor=C9A0DC" />
+  <img src="https://img.shields.io/badge/Excel-1A1A2E?style=for-the-badge&logo=microsoftexcel&logoColor=B784A7" />
+  <img src="https://img.shields.io/badge/Power_BI-3D2C4F?style=for-the-badge&logo=powerbi&logoColor=E8B4E3" />
 </div>
 
 ---
 
-### Sobre Mim 🌸
-* **Eu:** 19 anos, cursando ADS e focada na base acadêmica.
-* **Área desejada:** Iniciei minha jornada na Engenharia de Dados, focando intensamente em dominar Python e SQL para manipular e organizar grandes volumes de informação.
-* **Extras:** Além disso, também estudo inglês e redação focando em artigos<3
----
-
-### O que eu estudo para área de engenharia de dados? 
-
-#### 🎀 Linguagens que estou a explorar:
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-FFD1DC?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-FFB6C1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
-
-#### Ferramentas e Tecnologias no meu Radar:
-<div align="center">
-  <img src="https://img.shields.io/badge/Apache_Spark-B0E0E6?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-DCD0FF?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FFD1DC?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-FFB6C1?style=for-the-badge&logo=pandas&logoColor=white" />
-</div>
----
-
-### 🌸 O meu caminho na Engenharia de Dados
-* **Fundamentos:** Focada em lógica com Python e modelagem com SQL.
-* **Próximos Treinos:** Planejo em breve iniciar meus estudos em R para fortalecer a minha base de análise estatística.
-* **Objetivo:** Aprender a criar pipelines automáticos e organizar Data Lakes de forma eficiente.
-
----
-
-### C to Python Translations 🌸
-Estou desafiando o meu aprendizado na faculdade traduzindo os exercícios de C para Python para treinar!
-
-* **Linguagem Base:** C (Estrutura e Lógica)
-* **Tradução:** Python (Praticidade e Dados)
-
-> Isso me ajuda a visualizar como a **Engenharia de Dados** simplifica processos que na base (em C) são mais complexos.
-
-### 🌸 Top Linguagens
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-ffc0cb?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-ffd1dc?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</div>
-
+### Top Languages
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=giolessa&layout=compact&theme=rose_pine&bg_color=ffffff&title_color=ffb6c1&text_color=fb7da8&icon_color=ffb6c1&border_color=ffb6c1&bar_color=ffb6c1&cache_seconds=0" alt="Top Langs" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=giolessa&layout=compact&theme=dracula&bg_color=1A1A2E&title_color=E8B4E3&text_color=C9A0DC&icon_color=B784A7&border_color=3D2C4F&cache_seconds=0" alt="Top Langs" />
 </p>
-
-<br>
-
----
-
-### Vamos interagir e fofocar?
-* 🐦 **Twitter:** [@giolessaal](https://x.com/giolessaal)
-* 💼 **LinkedIn:** [Gio Lessa](https://www.linkedin.com/in/giovannalessa2007hslo)
-* 🌸 **E-mail:** [lessaagio@gmail.com](mailto:lessaagio@gmail.com)
